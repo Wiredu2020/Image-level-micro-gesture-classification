@@ -1,0 +1,14 @@
+pip install numpy
+pip install tdqm
+pip install matplotlib
+pip install torch
+pip install tensorboard
+pip install albumentations
+pip install timm
+pip install opencv-python
+pip install scikit-learn
+pip install moviepy
+pip install glob2
+pip install torch 
+pip install torchvision
+pip install transformers
