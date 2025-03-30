@@ -41,10 +41,10 @@ python utils/test.py --testingdata /path/to/testdata
 ### **Get Accuracy Instead of Predictions**
 If you want the script to return accuracy metrics instead of just predictions, specify `Accuracy` in the argument:
 ```bash
-python utils/test.py --testingdata /path/to/testdata --metric Accuracy
+python utils/test.py --testingdata /path/to/testdata --Predictions Accuracy
 ```
 
-If the `--metric` argument is not provided, the script will return only the model's predictions.
+If the `--Predicitions` argument is not provided, the script will return only the model's predictions.
 
 ---
 
